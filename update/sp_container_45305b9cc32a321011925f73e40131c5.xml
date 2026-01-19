@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#ffd3d9</background_color>
+        <background_image>c08d9b18c3aa321011925f73e4013187</background_image>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>&lt;p style="color:white;"&gt; We are happy to</class_name>
+        <container_class_name>.widget-content p {   color: white; }</container_class_name>
+        <name>Portal Meum Homepage - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="pm_index">a2fec31cc32a321011925f73e401314b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 09:26:14</sys_created_on>
+        <sys_id>45305b9cc32a321011925f73e40131c5</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Portal Meum Homepage - Container 1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_container_45305b9cc32a321011925f73e40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-16 10:24:24</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>background_image</file_name>
+        <hash>e4773e2cd3d31e95f19289003dfbdedb0300e7eab8d6c2a262c83d77b10a39d1</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>420</size_bytes>
+        <size_compressed>278</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 10:24:21</sys_created_on>
+        <sys_id>c08d9b18c3aa321011925f73e4013187</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2026-01-16 10:24:21</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>45305b9cc32a321011925f73e40131c5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="c08d9b18c3aa321011925f73e4013187">c08d9b18c3aa321011925f73e4013187</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 10:24:20</sys_created_on>
+        <sys_id>848d9b18c3aa321011925f73e4013187</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>ZVDBasMwDL33K4x62Q6LnYQFMuoeRmHHHUbPJUuUxNSzg+026d9PTlJYGQYLSU9672nnrx0bVRN6CWkmBLAeVdcHCUVOyVXh+G4nCYIJFvtsLrdKawnGGgQ2/WjjJfQhDG+cj+OYjHliXccJLTith/1m57AOLK5JXoHd1ninTcvyD21GiSNoGSEL0cXpp+1QKRPESSuDlTulp+wZmA/OnlHCt67qM3AiarD1FBbUh6sahSYw1Uj4N0/SU1JCepYwZfcT3LLVfrcuOBoVyOPFo/saqho/zdFj9OWDHVj8XmqrrZOwPeTxzVrmpm1bj+QrhUdcXhRFeZhx/FFtrKw24vn2m1/bYR2mpAEAAA==</data>
+        <length>360</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="c08d9b18c3aa321011925f73e4013187">c08d9b18c3aa321011925f73e4013187</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 10:24:20</sys_created_on>
+        <sys_id>488d9b18c3aa321011925f73e4013187</sys_id>
+    </sys_attachment_doc>
+</record_update>
