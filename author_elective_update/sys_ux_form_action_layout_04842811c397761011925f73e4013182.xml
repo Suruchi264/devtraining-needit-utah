@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout">
+    <sys_ux_form_action_layout action="DELETE">
+        <action_config/>
+        <active>true</active>
+        <description>List layout view</description>
+        <name>Experience List</name>
+        <order>0</order>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_form_action_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-25 06:17:38</sys_created_on>
+        <sys_id>04842811c397761011925f73e4013182</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Experience List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_04842811c397761011925f73e4013182</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-25 06:17:38</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <use_layout_items_only>true</use_layout_items_only>
+    </sys_ux_form_action_layout>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>dd20ffa11bf63510699443f4bd4bcbd4</instance_id>
+        <instance_name>dev228296</instance_name>
+        <name>sys_ux_form_action_layout_04842811c397761011925f73e4013182</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout"><sys_ux_form_action_layout action="INSERT_OR_UPDATE"><action_config/><active>true</active><description>List layout view</description><name>Experience List</name><order>0</order><specificity>20</specificity><sys_class_name>sys_ux_form_action_layout</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-02-25 06:17:38</sys_created_on><sys_id>04842811c397761011925f73e4013182</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Experience List</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_form_action_layout_04842811c397761011925f73e4013182</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-02-25 06:17:38</sys_updated_on><table>x_58872_needit_needit</table><use_layout_items_only>true</use_layout_items_only></sys_ux_form_action_layout></record_update>]]></payload>
+        <payload_hash>676395914</payload_hash>
+        <record_name>Experience List</record_name>
+        <reverted_from/>
+        <source>5a01bd34c3d63e9011925f73e40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-25 06:17:38</sys_created_on>
+        <sys_id>98a42c11c397761011925f73e40131c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c93722aa70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-25 06:17:38</sys_updated_on>
+        <type>UX Form Actions Layout</type>
+        <update_guid>58a42c11de977610ba3b282704b318c1</update_guid>
+        <update_guid_history>58a42c11de977610ba3b282704b318c1:676395914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-25 06:19:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_form_action_layout">sys_ux_form_action_layout</sys_db_object>
+        <sys_id>b2f8a4dbda664d989064e70f593bf704</sys_id>
+        <sys_metadata>04842811c397761011925f73e4013182</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Experience List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_form_action_layout_04842811c397761011925f73e4013182</sys_update_name>
+        <sys_update_version display_value="sys_ux_form_action_layout_04842811c397761011925f73e4013182">98a42c11c397761011925f73e40131c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-25 06:19:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
